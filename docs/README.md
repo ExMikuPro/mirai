@@ -78,6 +78,8 @@ HTTP 插件），也可以阅读 [用户手册](UserManual.md) 进行个性化�
 
 [Excaive/miraicle]: https://github.com/Excaive/miraicle
 
+[easyMirai]: https://github.com/easyMirais/easyMirai
+
 [nkxingxh/miraiez]: https://github.com/nkxingxh/miraiez
 
 [Xwdit/RainyBot-Core]: https://github.com/Xwdit/RainyBot-Core
@@ -144,6 +146,7 @@ HTTP 插件），也可以阅读 [用户手册](UserManual.md) 进行个性化�
 | `Python`                  | [jerrita/saaya]                      |
 | `Python`                  | [YiriMirai]                          |
 | `Python`                  | [Excaive/miraicle]                   |
+| `Python`                  | [easyMirai]                          |
 | `Ruby`                    | [Shimogawa/rubirai]                  |
 | `Rust`                    | [HoshinoTented/mirai-rs]             |
 | `易语言`                     | [only52607/e-mirai]                  |
