@@ -50,6 +50,8 @@ HTTP 插件），也可以阅读 [用户手册](UserManual.md) 进行个性化�
 
 [Chlorie/miraipp]: https://github.com/Chlorie/miraipp-template
 
+[easyMirai]: https://github.com/easyMirais/easyMirai
+
 [Executor-Cheng/mirai-CSharp]: https://github.com/Executor-Cheng/mirai-CSharp
 
 [HoshinoTented/mirai-rs]: https://github.com/HoshinoTented/mirai-rs
@@ -58,7 +60,7 @@ HTTP 插件），也可以阅读 [用户手册](UserManual.md) 进行个性化�
 
 [nepsyn/miraipie]: https://github.com/nepsyn/miraipie
 
-[only52607/e-mirai]: https://github.com/only52607/e-mirai
+[only52607/e-mirai]: https://github.com/only52607/e-mirai 
 
 [theGravityLab/ProjHyperai]: https://github.com/theGravityLab/ProjHyperai
 
@@ -144,9 +146,10 @@ HTTP 插件），也可以阅读 [用户手册](UserManual.md) 进行个性化�
 | `Python`                  | [jerrita/saaya]                      |
 | `Python`                  | [YiriMirai]                          |
 | `Python`                  | [Excaive/miraicle]                   |
+| `Python`                  | [easyMirai]                          |
 | `Ruby`                    | [Shimogawa/rubirai]                  |
 | `Rust`                    | [HoshinoTented/mirai-rs]             |
-| `易语言`                     | [only52607/e-mirai]                  |
+| `易语言`                   | [only52607/e-mirai]                  |
 
 > 按字母顺序排序，排序不代表排名  
 > *
